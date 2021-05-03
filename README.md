@@ -1,4 +1,4 @@
-<img src="![potterhead2](https://user-images.githubusercontent.com/79371902/116918745-aad8c600-ac26-11eb-9ed2-ade30c304cac.jpg)" align="center" width="500">
+<img src="potterhead2" align="center" width="500">
  
  
 <p>Sejam bem-vindos ao meu perfil, estou começando a programar e meus repositórios estarão sempre abertos, espero ajudar alguém e se puderem me ajudar eu vou agradecer muito.</p>
