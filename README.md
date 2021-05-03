@@ -1,5 +1,6 @@
-<img src="potterhead2" align="center" width="500">
+![image](https://raw.githubusercontent.com/juliodev-13/Juliodev/main/potterhead2.jpg)
  
+
  
 <p>Sejam bem-vindos ao meu perfil, estou começando a programar e meus repositórios estarão sempre abertos, espero ajudar alguém e se puderem me ajudar eu vou agradecer muito.</p>
 <h3>👨‍🎓Estudante de análise e desenvolvimento de sistemas.<br> 
