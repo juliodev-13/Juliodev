@@ -6,3 +6,4 @@
  Pai👨‍👩‍👧, marido👩🏽‍🤝‍👨🏼, DEV💻 e GEEK🤓 (sempre que posso).👻</h3>
 
 
+<img src="https://cdn-images-1.medium.com/max/800/0*VV3Nmxgv3KX4sLhr.gif" alt="Por hoje é só pessoal" title="Por hoje é só pessoal">
